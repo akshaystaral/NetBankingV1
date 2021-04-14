@@ -1,0 +1,113 @@
+2021-04-12 20:09:40,901 - eBanking -INFO - URL is Opened
+2021-04-12 20:09:42,142 - eBanking -INFO - Entered Username
+2021-04-12 20:09:42,358 - eBanking -INFO - Entered Password
+2021-04-12 20:09:45,342 - eBanking -INFO - Clicked on Submit Button
+2021-04-12 20:09:45,394 - eBanking -INFO - Test Case Passed
+2021-04-12 20:31:26,173 - eBanking -INFO - URL is Opened
+2021-04-12 20:31:26,685 - eBanking -INFO - Entered Username
+2021-04-12 20:31:26,793 - eBanking -INFO - Entered Password
+2021-04-12 20:31:28,862 - eBanking -INFO - Clicked on Submit Button
+2021-04-12 20:32:35,684 - eBanking -INFO - URL is Opened
+2021-04-12 20:32:36,036 - eBanking -INFO - Entered Username
+2021-04-12 20:32:36,135 - eBanking -INFO - Entered Password
+2021-04-12 20:32:38,255 - eBanking -INFO - Clicked on Submit Button
+2021-04-12 20:33:14,859 - eBanking -INFO - URL is Opened
+2021-04-12 20:33:15,201 - eBanking -INFO - Entered Username
+2021-04-12 20:33:15,321 - eBanking -INFO - Entered Password
+2021-04-12 20:33:18,012 - eBanking -INFO - Clicked on Submit Button
+2021-04-12 20:33:18,042 - eBanking -INFO - Test Case Passed
+2021-04-12 20:57:27,162 - eBanking -INFO - Entered Username
+2021-04-12 20:57:27,366 - eBanking -INFO - Entered Password
+2021-04-12 20:57:41,295 - eBanking -INFO - Clicked on Submit Button
+2021-04-12 20:57:41,308 - eBanking -INFO - Test Case Passed
+2021-04-12 21:17:54,824 - eBanking -INFO - Entered Username
+2021-04-12 21:17:54,917 - eBanking -INFO - Entered Password
+2021-04-12 21:18:12,489 - eBanking -INFO - Clicked on Submit Button
+2021-04-12 21:18:12,517 - eBanking -INFO - Test Case Passed
+2021-04-12 21:23:15,452 - eBanking -INFO - Entered Username
+2021-04-12 21:23:15,552 - eBanking -INFO - Entered Password
+2021-04-12 21:23:23,459 - eBanking -INFO - Clicked on Submit Button
+2021-04-12 21:23:23,488 - eBanking -INFO - Test Case Passed
+2021-04-12 21:25:23,820 - eBanking -INFO - Entered Username
+2021-04-12 21:25:23,918 - eBanking -INFO - Entered Password
+2021-04-12 21:25:32,377 - eBanking -INFO - Clicked on Submit Button
+2021-04-12 21:25:32,405 - eBanking -INFO - Test Case Passed
+2021-04-12 21:36:06,747 - eBanking -INFO - Entered Username
+2021-04-12 21:36:06,844 - eBanking -INFO - Entered Password
+2021-04-12 21:36:16,406 - eBanking -INFO - Clicked on Submit Button
+2021-04-12 21:36:16,437 - eBanking -INFO - Test Case Passed
+2021-04-12 21:37:50,106 - eBanking -INFO - Entered Username
+2021-04-12 21:37:50,264 - eBanking -INFO - Entered Password
+2021-04-12 21:38:02,341 - eBanking -INFO - Clicked on Submit Button
+2021-04-12 21:43:15,635 - eBanking -INFO - Entered Username
+2021-04-12 21:43:15,749 - eBanking -INFO - Entered Password
+2021-04-12 21:43:37,188 - eBanking -INFO - Clicked on Submit Button
+2021-04-13 11:29:24,163 - eBanking -INFO - Username Provided
+2021-04-13 11:29:24,758 - eBanking -INFO - Passsword Provided
+2021-04-13 11:29:31,967 - eBanking -INFO - Login passed
+2021-04-13 11:33:11,468 - eBanking -INFO - Username Provided
+2021-04-13 11:33:11,562 - eBanking -INFO - Passsword Provided
+2021-04-13 11:33:16,634 - eBanking -INFO - Login passed
+2021-04-13 11:37:00,930 - eBanking -INFO - Username Provided
+2021-04-13 11:37:01,094 - eBanking -INFO - Passsword Provided
+2021-04-13 11:39:09,958 - eBanking -INFO - Username Provided
+2021-04-13 11:39:10,045 - eBanking -INFO - Passsword Provided
+2021-04-13 11:39:16,157 - eBanking -INFO - Login passed
+2021-04-13 11:41:56,357 - eBanking -INFO - Username Provided
+2021-04-13 11:41:56,451 - eBanking -INFO - Passsword Provided
+2021-04-13 11:42:02,924 - eBanking -INFO - Login passed
+2021-04-13 11:44:38,060 - eBanking -INFO - Username Provided
+2021-04-13 11:44:38,151 - eBanking -INFO - Passsword Provided
+2021-04-13 11:44:43,442 - eBanking -INFO - Login passed
+2021-04-13 11:44:47,403 - eBanking -INFO - Username Provided
+2021-04-13 11:44:47,617 - eBanking -INFO - Passsword Provided
+2021-04-13 11:44:52,243 - eBanking -INFO - Login passed
+2021-04-13 11:44:56,763 - eBanking -INFO - Username Provided
+2021-04-13 11:44:57,003 - eBanking -INFO - Passsword Provided
+2021-04-13 11:45:01,671 - eBanking -INFO - Login passed
+2021-04-13 11:47:44,275 - eBanking -INFO - Username Provided
+2021-04-13 11:47:44,380 - eBanking -INFO - Passsword Provided
+2021-04-13 11:47:49,455 - eBanking -INFO - Login passed
+2021-04-13 11:47:55,501 - eBanking -INFO - Username Provided
+2021-04-13 11:47:55,724 - eBanking -INFO - Passsword Provided
+2021-04-13 11:48:00,643 - eBanking -INFO - Login passed
+2021-04-13 11:48:05,104 - eBanking -INFO - Username Provided
+2021-04-13 11:48:05,323 - eBanking -INFO - Passsword Provided
+2021-04-13 11:48:11,326 - eBanking -INFO - Login passed
+2021-04-13 11:49:32,234 - eBanking -INFO - Username Provided
+2021-04-13 11:49:32,374 - eBanking -INFO - Passsword Provided
+2021-04-13 11:49:37,579 - eBanking -INFO - Login passed
+2021-04-13 11:49:43,098 - eBanking -INFO - Username Provided
+2021-04-13 11:49:43,169 - eBanking -INFO - Passsword Provided
+2021-04-13 11:49:47,784 - eBanking -INFO - Login passed
+2021-04-13 11:49:53,567 - eBanking -INFO - Username Provided
+2021-04-13 11:49:53,813 - eBanking -INFO - Passsword Provided
+2021-04-13 11:49:58,887 - eBanking -INFO - Login passed
+2021-04-13 12:16:04,152 - eBanking -INFO - Entered in Add Customer Page:
+2021-04-13 12:16:15,025 - eBanking -INFO - Validation started....
+2021-04-13 12:16:15,326 - eBanking -INFO - test case passed....
+2021-04-13 12:22:53,866 - eBanking -INFO - Entered in Add Customer Page:
+2021-04-13 12:23:06,242 - eBanking -INFO - Validation started....
+2021-04-13 12:23:06,266 - eBanking -INFO - test case passed....
+2021-04-13 12:26:32,866 - eBanking -INFO - Entered Username
+2021-04-13 12:26:32,981 - eBanking -INFO - Entered Password
+2021-04-13 12:26:35,746 - eBanking -INFO - Clicked on Submit Button
+2021-04-13 12:27:01,770 - eBanking -INFO - Username Provided
+2021-04-13 12:27:01,887 - eBanking -INFO - Passsword Provided
+2021-04-13 12:27:10,586 - eBanking -INFO - Login passed
+2021-04-13 12:27:17,153 - eBanking -INFO - Username Provided
+2021-04-13 12:27:17,275 - eBanking -INFO - Passsword Provided
+2021-04-13 12:27:22,370 - eBanking -INFO - Login passed
+2021-04-13 12:27:27,987 - eBanking -INFO - Username Provided
+2021-04-13 12:27:28,075 - eBanking -INFO - Passsword Provided
+2021-04-13 12:27:33,234 - eBanking -INFO - Login passed
+2021-04-13 12:28:03,648 - eBanking -INFO - Entered in Add Customer Page:
+2021-04-13 12:28:16,045 - eBanking -INFO - Validation started....
+2021-04-13 12:28:16,079 - eBanking -INFO - test case passed....
+2021-04-13 12:32:35,447 - eBanking -INFO - Entered Username
+2021-04-13 12:32:35,587 - eBanking -INFO - Entered Password
+2021-04-13 12:32:38,821 - eBanking -INFO - Clicked on Submit Button
+2021-04-13 12:32:38,852 - eBanking -INFO - Test Case Passed
+2021-04-13 12:33:00,969 - eBanking -INFO - Username Provided
+2021-04-13 12:33:01,176 - eBanking -INFO - Passsword Provided
+2021-04-13 12:33:07,584 - eBanking -INFO - Login passed

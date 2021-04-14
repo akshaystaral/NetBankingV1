@@ -1,0 +1,113 @@
+2021-04-12 20:09:40,901 [main] INFO eBanking - URL is Opened
+2021-04-12 20:09:42,142 [main] INFO eBanking - Entered Username
+2021-04-12 20:09:42,358 [main] INFO eBanking - Entered Password
+2021-04-12 20:09:45,342 [main] INFO eBanking - Clicked on Submit Button
+2021-04-12 20:09:45,394 [main] INFO eBanking - Test Case Passed
+2021-04-12 20:31:26,173 [main] INFO eBanking - URL is Opened
+2021-04-12 20:31:26,685 [main] INFO eBanking - Entered Username
+2021-04-12 20:31:26,793 [main] INFO eBanking - Entered Password
+2021-04-12 20:31:28,862 [main] INFO eBanking - Clicked on Submit Button
+2021-04-12 20:32:35,684 [main] INFO eBanking - URL is Opened
+2021-04-12 20:32:36,036 [main] INFO eBanking - Entered Username
+2021-04-12 20:32:36,135 [main] INFO eBanking - Entered Password
+2021-04-12 20:32:38,255 [main] INFO eBanking - Clicked on Submit Button
+2021-04-12 20:33:14,859 [main] INFO eBanking - URL is Opened
+2021-04-12 20:33:15,201 [main] INFO eBanking - Entered Username
+2021-04-12 20:33:15,321 [main] INFO eBanking - Entered Password
+2021-04-12 20:33:18,012 [main] INFO eBanking - Clicked on Submit Button
+2021-04-12 20:33:18,042 [main] INFO eBanking - Test Case Passed
+2021-04-12 20:57:27,162 [TestNG-tests-1] INFO eBanking - Entered Username
+2021-04-12 20:57:27,366 [TestNG-tests-1] INFO eBanking - Entered Password
+2021-04-12 20:57:41,295 [TestNG-tests-1] INFO eBanking - Clicked on Submit Button
+2021-04-12 20:57:41,308 [TestNG-tests-1] INFO eBanking - Test Case Passed
+2021-04-12 21:17:54,824 [TestNG-tests-1] INFO eBanking - Entered Username
+2021-04-12 21:17:54,917 [TestNG-tests-1] INFO eBanking - Entered Password
+2021-04-12 21:18:12,489 [TestNG-tests-1] INFO eBanking - Clicked on Submit Button
+2021-04-12 21:18:12,517 [TestNG-tests-1] INFO eBanking - Test Case Passed
+2021-04-12 21:23:15,452 [TestNG-tests-1] INFO eBanking - Entered Username
+2021-04-12 21:23:15,552 [TestNG-tests-1] INFO eBanking - Entered Password
+2021-04-12 21:23:23,459 [TestNG-tests-1] INFO eBanking - Clicked on Submit Button
+2021-04-12 21:23:23,488 [TestNG-tests-1] INFO eBanking - Test Case Passed
+2021-04-12 21:25:23,820 [TestNG-tests-1] INFO eBanking - Entered Username
+2021-04-12 21:25:23,918 [TestNG-tests-1] INFO eBanking - Entered Password
+2021-04-12 21:25:32,377 [TestNG-tests-1] INFO eBanking - Clicked on Submit Button
+2021-04-12 21:25:32,405 [TestNG-tests-1] INFO eBanking - Test Case Passed
+2021-04-12 21:36:06,747 [TestNG-tests-1] INFO eBanking - Entered Username
+2021-04-12 21:36:06,844 [TestNG-tests-1] INFO eBanking - Entered Password
+2021-04-12 21:36:16,406 [TestNG-tests-1] INFO eBanking - Clicked on Submit Button
+2021-04-12 21:36:16,437 [TestNG-tests-1] INFO eBanking - Test Case Passed
+2021-04-12 21:37:50,106 [TestNG-tests-1] INFO eBanking - Entered Username
+2021-04-12 21:37:50,264 [TestNG-tests-1] INFO eBanking - Entered Password
+2021-04-12 21:38:02,341 [TestNG-tests-1] INFO eBanking - Clicked on Submit Button
+2021-04-12 21:43:15,635 [TestNG-tests-1] INFO eBanking - Entered Username
+2021-04-12 21:43:15,749 [TestNG-tests-1] INFO eBanking - Entered Password
+2021-04-12 21:43:37,188 [TestNG-tests-1] INFO eBanking - Clicked on Submit Button
+2021-04-13 11:29:24,163 [TestNG-tests-1] INFO eBanking - Username Provided
+2021-04-13 11:29:24,758 [TestNG-tests-1] INFO eBanking - Passsword Provided
+2021-04-13 11:29:31,967 [TestNG-tests-1] INFO eBanking - Login passed
+2021-04-13 11:33:11,468 [TestNG-tests-1] INFO eBanking - Username Provided
+2021-04-13 11:33:11,562 [TestNG-tests-1] INFO eBanking - Passsword Provided
+2021-04-13 11:33:16,634 [TestNG-tests-1] INFO eBanking - Login passed
+2021-04-13 11:37:00,930 [TestNG-tests-1] INFO eBanking - Username Provided
+2021-04-13 11:37:01,094 [TestNG-tests-1] INFO eBanking - Passsword Provided
+2021-04-13 11:39:09,958 [TestNG-tests-1] INFO eBanking - Username Provided
+2021-04-13 11:39:10,045 [TestNG-tests-1] INFO eBanking - Passsword Provided
+2021-04-13 11:39:16,157 [TestNG-tests-1] INFO eBanking - Login passed
+2021-04-13 11:41:56,357 [TestNG-tests-1] INFO eBanking - Username Provided
+2021-04-13 11:41:56,451 [TestNG-tests-1] INFO eBanking - Passsword Provided
+2021-04-13 11:42:02,924 [TestNG-tests-1] INFO eBanking - Login passed
+2021-04-13 11:44:38,060 [TestNG-tests-1] INFO eBanking - Username Provided
+2021-04-13 11:44:38,151 [TestNG-tests-1] INFO eBanking - Passsword Provided
+2021-04-13 11:44:43,442 [TestNG-tests-1] INFO eBanking - Login passed
+2021-04-13 11:44:47,403 [TestNG-tests-1] INFO eBanking - Username Provided
+2021-04-13 11:44:47,617 [TestNG-tests-1] INFO eBanking - Passsword Provided
+2021-04-13 11:44:52,243 [TestNG-tests-1] INFO eBanking - Login passed
+2021-04-13 11:44:56,763 [TestNG-tests-1] INFO eBanking - Username Provided
+2021-04-13 11:44:57,003 [TestNG-tests-1] INFO eBanking - Passsword Provided
+2021-04-13 11:45:01,671 [TestNG-tests-1] INFO eBanking - Login passed
+2021-04-13 11:47:44,275 [TestNG-tests-1] INFO eBanking - Username Provided
+2021-04-13 11:47:44,380 [TestNG-tests-1] INFO eBanking - Passsword Provided
+2021-04-13 11:47:49,455 [TestNG-tests-1] INFO eBanking - Login passed
+2021-04-13 11:47:55,501 [TestNG-tests-1] INFO eBanking - Username Provided
+2021-04-13 11:47:55,724 [TestNG-tests-1] INFO eBanking - Passsword Provided
+2021-04-13 11:48:00,643 [TestNG-tests-1] INFO eBanking - Login passed
+2021-04-13 11:48:05,104 [TestNG-tests-1] INFO eBanking - Username Provided
+2021-04-13 11:48:05,323 [TestNG-tests-1] INFO eBanking - Passsword Provided
+2021-04-13 11:48:11,326 [TestNG-tests-1] INFO eBanking - Login passed
+2021-04-13 11:49:32,234 [TestNG-tests-1] INFO eBanking - Username Provided
+2021-04-13 11:49:32,374 [TestNG-tests-1] INFO eBanking - Passsword Provided
+2021-04-13 11:49:37,579 [TestNG-tests-1] INFO eBanking - Login passed
+2021-04-13 11:49:43,098 [TestNG-tests-1] INFO eBanking - Username Provided
+2021-04-13 11:49:43,169 [TestNG-tests-1] INFO eBanking - Passsword Provided
+2021-04-13 11:49:47,784 [TestNG-tests-1] INFO eBanking - Login passed
+2021-04-13 11:49:53,567 [TestNG-tests-1] INFO eBanking - Username Provided
+2021-04-13 11:49:53,813 [TestNG-tests-1] INFO eBanking - Passsword Provided
+2021-04-13 11:49:58,887 [TestNG-tests-1] INFO eBanking - Login passed
+2021-04-13 12:16:04,152 [TestNG-tests-1] INFO eBanking - Entered in Add Customer Page:
+2021-04-13 12:16:15,025 [TestNG-tests-1] INFO eBanking - Validation started....
+2021-04-13 12:16:15,326 [TestNG-tests-1] INFO eBanking - test case passed....
+2021-04-13 12:22:53,866 [TestNG-tests-1] INFO eBanking - Entered in Add Customer Page:
+2021-04-13 12:23:06,242 [TestNG-tests-1] INFO eBanking - Validation started....
+2021-04-13 12:23:06,266 [TestNG-tests-1] INFO eBanking - test case passed....
+2021-04-13 12:26:32,866 [TestNG-tests-1] INFO eBanking - Entered Username
+2021-04-13 12:26:32,981 [TestNG-tests-1] INFO eBanking - Entered Password
+2021-04-13 12:26:35,746 [TestNG-tests-1] INFO eBanking - Clicked on Submit Button
+2021-04-13 12:27:01,770 [TestNG-tests-1] INFO eBanking - Username Provided
+2021-04-13 12:27:01,887 [TestNG-tests-1] INFO eBanking - Passsword Provided
+2021-04-13 12:27:10,586 [TestNG-tests-1] INFO eBanking - Login passed
+2021-04-13 12:27:17,153 [TestNG-tests-1] INFO eBanking - Username Provided
+2021-04-13 12:27:17,275 [TestNG-tests-1] INFO eBanking - Passsword Provided
+2021-04-13 12:27:22,370 [TestNG-tests-1] INFO eBanking - Login passed
+2021-04-13 12:27:27,987 [TestNG-tests-1] INFO eBanking - Username Provided
+2021-04-13 12:27:28,075 [TestNG-tests-1] INFO eBanking - Passsword Provided
+2021-04-13 12:27:33,234 [TestNG-tests-1] INFO eBanking - Login passed
+2021-04-13 12:28:03,648 [TestNG-tests-1] INFO eBanking - Entered in Add Customer Page:
+2021-04-13 12:28:16,045 [TestNG-tests-1] INFO eBanking - Validation started....
+2021-04-13 12:28:16,079 [TestNG-tests-1] INFO eBanking - test case passed....
+2021-04-13 12:32:35,447 [TestNG-tests-1] INFO eBanking - Entered Username
+2021-04-13 12:32:35,587 [TestNG-tests-1] INFO eBanking - Entered Password
+2021-04-13 12:32:38,821 [TestNG-tests-1] INFO eBanking - Clicked on Submit Button
+2021-04-13 12:32:38,852 [TestNG-tests-1] INFO eBanking - Test Case Passed
+2021-04-13 12:33:00,969 [TestNG-tests-1] INFO eBanking - Username Provided
+2021-04-13 12:33:01,176 [TestNG-tests-1] INFO eBanking - Passsword Provided
+2021-04-13 12:33:07,584 [TestNG-tests-1] INFO eBanking - Login passed
